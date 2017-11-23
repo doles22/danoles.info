@@ -1,0 +1,351 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    position: relative;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+/* Title Heading */
+
+h1 {
+    margin-top: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: 100%;
+    width: 100%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #FFF;
+}
+
+#h_banner {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(78, 183, 195, 1);
+
+}
+
+/* building heading nav bar */
+
+#h_bar {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 5rem;
+    background-color: transparent;
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 36px;
+    transition: .10s linear;
+}
+
+#h_bar:hover {
+    background-color: rgba(78, 183, 195, .25);
+}
+
+#h_bar li {
+    display: inline-block;
+    margin: .5rem 2rem;
+    padding: .5rem;
+    border-radius: 15px;
+}
+
+#h_bar li a {
+    padding: .5rem;
+    border-radius: 15px;
+    background-color: transparent;
+    color: #000;
+    transition: .10s linear;
+}
+
+
+#h_bar li a:hover {
+    background-color: rgba(78, 183, 195, 1);
+    color: #FFF;
+    cursor: pointer;
+}
+
+/* body base format start */
+
+body {
+    width: 100%;
+    height: auto;
+    background-image: url(Content/Home%20Page%20Images/background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: color;
+    background-color: rgba(232, 232, 232, .27);
+    z-index: 0;
+}
+
+#b_banner {
+    margin: auto;
+    width: 90%;
+    max-width: 1080px;
+    min-width: 480px;
+    height: 100%;
+    background-color: rgba(232, 232, 232, .60);
+    border-radius: 15px;
+}
+
+.container {
+    padding: 4em 3em;
+    overflow: hidden;
+}
+
+h2 {
+    margin-top: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: 100%;
+    width: 100%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 84px;
+    color: #FFF;
+}
+
+.overlay {
+    color: transparent;
+    position: absolute;
+    transition: .10s linear;    
+}
+
+.overlay p {
+    padding-top: 2rem;
+    height: 75%;
+    width: 90%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 24px;
+    text-align: center;
+    overflow: hidden;
+}
+
+/* Responsive options for body */
+
+@media only screen and (min-width: 1080px) {
+    #h_banner {
+    padding-top: 5%;
+    height: 20rem;   
+    }
+    
+    h1 {
+    font-size: 150px; 
+    }
+    
+    .overlay p {
+    font-size: 36px;
+    }
+    
+    nav li a {
+    font-size: 54px;
+    }
+}
+
+
+
+
+
+
+
+/*beginning of Taylor specific content */
+
+.container .taylor_img {
+    z-index: 3;
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 360px;
+    display: block;
+    background-image: url(Content/Home%20Page%20Images/Tayor_krikpark.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: color;
+    background-color: rgba(232, 232, 232, .27);
+    border-radius: 15px;
+}
+
+.taylor_img .overlay {
+    top: 25%;
+    width: 60%;
+    height: 75%;
+    border-radius: 0px 15px;
+}
+
+.container .taylor_img:hover .overlay{
+    background-color: rgba(232, 232, 232, .60);
+    color: black;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .taylor_img {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 45rem;
+    max-height: 480px;
+    }
+}
+
+
+
+
+
+
+
+/*beginning of Dan specific content */
+
+#dan_h h2 {
+    text-align: center;
+}
+
+.container .dan_img {
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 360px;
+    display: block;
+    background-image: url(Content/Home%20Page%20Images/dan_camping.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .dan_img {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 45rem;
+    max-height: 480px;
+    }
+}
+
+.dan_img .overlay {
+    right: 0;
+    width: 40%;
+    height: 100%;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.container .dan_img:hover .overlay{
+    background-color: rgba(232, 232, 232, .60);
+    color: black;
+}
+
+
+
+
+
+
+/*beginning of Baby specific content */
+
+#baby_h h2 {
+    text-align: left;
+}
+
+.container .baby_img {
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 360px;
+    display: block;
+    background-image: url(Content/Home%20Page%20Images/baby.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, .08);
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .baby_img {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 45rem;
+    max-height: 480px;
+    }
+}
+
+.baby_img .overlay {
+    top: 25%;
+    width: 50%;
+    height: 75%;
+    border-radius: 0px 15px;
+}
+
+.container .baby_img:hover .overlay{
+    background-color: rgba(232, 232, 232, .60);
+    color: black;
+}
+
+
+
+
+
+/*beginning of Dogs specific content */
+
+#dogs_h h2 {
+    text-align: right;
+}
+
+.container .dogs_img {
+    z-index: 3;
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 360px;
+    display: block;
+    background-image: url(Content/Home%20Page%20Images/dogs.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, .08);
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .dogs_img {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 45rem;
+    max-height: 480px;
+    }
+}
+
+.dogs_img .overlay {
+    width: 40%;
+    height: 60%;
+    border-radius: 0px 0px 15px 0px;
+}
+
+.container .dogs_img:hover .overlay{
+    background-color: rgba(232, 232, 232, .60);
+    color: black;
+}
+
+
+
+
+
+
+
+
+
