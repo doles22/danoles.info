@@ -351,11 +351,20 @@ h2 {
 
 
 /* video frame formatting for olesplus */
-#olesplus iframe {
-    width: 50%;
-    height: 28.125%;
+#olesplus {
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 360px;
     border-radius: 15px;
     margin: auto;
+    background-color: rgba(232, 232, 232, .60);
+}
+
+#olesplus iframe {
+    width: 100%;
+    height: 100%;
+    border: none
 }
 
 
