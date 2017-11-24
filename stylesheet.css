@@ -110,7 +110,7 @@ h2 {
 }
 
 .overlay {
-    color: transparent;
+    color: rgba(232, 232, 232, .10);
     position: absolute;
     transition: .10s linear;    
 }
