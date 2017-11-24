@@ -74,7 +74,7 @@ h1 {
 body {
     width: 100%;
     height: auto;
-    background-image: url("//cdn.rawgit.com/doles22/Oles_Family/tag/media/background.jpg");
+    background-image: url("");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
@@ -163,7 +163,7 @@ h2 {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("//doles22.github.io/Oles_Family/media/Tayor_krikpark.jpg");
+    background-image: url("");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -213,7 +213,7 @@ h2 {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://doles22.github.io/Oles_Family/media/Dan_camping.JPG");
+    background-image: url("");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -262,7 +262,7 @@ h2 {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://cdn.rawgit.com/doles22/Oles_Family/30ddd691/media/Baby.JPG");
+    background-image: url("");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -311,7 +311,7 @@ h2 {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://doles22.github.io/Oles_Family/media/dogs.JPG");
+    background-image: url("");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
