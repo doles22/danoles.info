@@ -350,10 +350,11 @@ h2 {
 
 
 /* iframe formatting */
-#oles+ iframe{
+#oles+ iframe {
     margin: auto;
     width: 640px;
     height: 360px;
+    border: none
 }
 
 
