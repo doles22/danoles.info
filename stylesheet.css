@@ -192,13 +192,13 @@ h2 {
     color: black;
 }
 
-@media only screen and (min-width: 1960px) {
+@media only screen and (min-width: 1080px) {
     .container .taylor_img {
     margin: auto;
     width: 100%;
-    max-width: 1960px;
+    max-width: 1080px;
     height: 45rem;
-    max-height: 1080px;
+    max-height: 720px;
     }
 }
 
@@ -230,13 +230,13 @@ h2 {
     border-radius: 15px;
 }
 
-@media only screen and (min-width: 1960px) {
+@media only screen and (min-width: 1080px) {
     .container .dan_img {
     margin: auto;
     width: 100%;
-    max-width: 1960px;
+    max-width: 1080px;
     height: 45rem;
-    max-height: 1080px;
+    max-height: 720px;
     }
 }
 
@@ -327,13 +327,13 @@ h2 {
     border-radius: 15px;
 }
 
-@media only screen and (min-width: 1960px) {
+@media only screen and (min-width: 1080px) {
     .container .dogs_img {
     margin: auto;
     width: 100%;
-    max-width: 1960px;
+    max-width: 1080px;
     height: 45rem;
-    max-height: 1080px;
+    max-height: 720px;
     }
 }
 
@@ -371,13 +371,13 @@ h2 {
     height: 100%;
 }
 
-@media only screen and (min-width: 1960px) {
+@media only screen and (min-width: 1080px) {
     .container .videoblock {
     margin: auto;
     width: 100%;
-    max-width: 1960px;
+    max-width: 1080px;
     height: 45rem;
-    max-height: 1080px;
+    max-height: 720px;
     }
 }
 
