@@ -352,10 +352,10 @@ h2 {
 
 /* video frame formatting for olesplus */
 #olesplus iframe {
+    width: 50%;
+    height: 28.125%;
+    border-radius: 15px;
     margin: auto;
-    width: 640px;
-    height: 360px;
-    border: none
 }
 
 
