@@ -122,7 +122,7 @@ h2 {
     font-family: 'Love Ya Like A Sister', cursive;
     font-size: 18px;
     text-align: center;
-    overflow: hidden;
+    overflow: show;
 }
 
 /* Responsive options for body for screens over 1080px */
