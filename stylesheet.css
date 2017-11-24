@@ -350,8 +350,8 @@ h2 {
 
 
 
-/* iframe formatting */
-#oles+ iframe {
+/* video frame formatting for olesplus */
+#olesplus iframe {
     margin: auto;
     width: 640px;
     height: 360px;
