@@ -95,7 +95,7 @@ body {
 }
 
 .container {
-    padding: 4em 3em;
+    padding: 1em 1em;
     overflow: hidden;
 }
 
@@ -138,6 +138,10 @@ h2 {
     #h_bar {
     background-color: transparent;
     }  
+    
+    .container {
+    padding: 3em 4em;
+    }
     
     h1 {
     font-size: 150px; 
