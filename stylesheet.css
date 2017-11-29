@@ -183,6 +183,9 @@ p {
 
 
 /*beginning of Taylor specific content */
+#taylor_h h2 {
+    text-align: left;
+}
 
 .container .taylor_img {
     margin: 0px 0px 5px 0px;
