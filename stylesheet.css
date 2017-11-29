@@ -107,6 +107,7 @@ h2 {
     width: 100%;
     font-family: 'Love Ya Like A Sister', cursive;
     font-size: 42px;
+    text-align: center;
     color: #FFF;
 }
 
@@ -414,6 +415,4 @@ p {
 
 
 /*Stay in touch content */
-.stayintouch h2 {
- text-align: center;   
-}
+
