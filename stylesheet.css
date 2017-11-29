@@ -414,4 +414,6 @@ p {
 
 
 /*Stay in touch content */
-
+.stayintouch p {
+ text-align: center;   
+}
