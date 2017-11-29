@@ -110,6 +110,16 @@ h2 {
     color: #FFF;
 }
 
+p {
+    padding-top: 2rem;
+    height: 75%;
+    width: 90%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 18px;
+    text-align: center;
+    overflow: show;
+}
+
 .overlay {
     background-color: rgba(232, 232, 232, .25);
     color: black;
@@ -126,6 +136,8 @@ h2 {
     text-align: center;
     overflow: show;
 }
+
+
 
 /* Responsive options for body for screens over 1080px */
 
@@ -163,7 +175,6 @@ h2 {
     background-position: center center;
     }
 }
-
 
 
 
@@ -209,6 +220,8 @@ h2 {
     max-height: 480px;
     }
 }
+
+
 
 
 
@@ -265,6 +278,8 @@ h2 {
 
 
 
+
+
 /*beginning of Baby specific content */
 
 #baby_h h2 {
@@ -308,6 +323,8 @@ h2 {
     background-color: rgba(232, 232, 232, .60);
     color: black;
 }
+
+
 
 
 
@@ -358,6 +375,11 @@ h2 {
 
 
 
+
+
+
+
+
 /* creating video blocks */
 
 .container .videoblock {
@@ -385,4 +407,14 @@ h2 {
 }
 
 
+
+
+
+
+
+
+/*Stay in touch content */
+.stayintouch p {
+    text-align: center;
+}
 
