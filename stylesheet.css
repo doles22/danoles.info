@@ -422,6 +422,6 @@ p {
     padding: .5rem;
     border-radius: 15px;
     background-color: rgba(78, 183, 195, 1);
-    color: #000;
+    color: #FFF;
     transition: .10s linear;
 }
