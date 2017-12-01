@@ -121,14 +121,6 @@ p {
     overflow: show;
 }
 
-a {
-    padding: .5rem;
-    border-radius: 15px;
-    background-color: transparent;
-    color: #000;
-    transition: .10s linear;
-}
-
 .overlay {
     background-color: rgba(232, 232, 232, .25);
     color: black;
@@ -427,5 +419,9 @@ a {
 
 /*Stay in touch content */
 #stayintouch h2 a {
+    padding: .5rem;
+    border-radius: 15px;
+    background-color: rgba(78, 183, 195, 1);
     color: #000;
+    transition: .10s linear;
 }
