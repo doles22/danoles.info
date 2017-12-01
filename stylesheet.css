@@ -121,6 +121,14 @@ p {
     overflow: show;
 }
 
+a {
+    padding: .5rem;
+    border-radius: 15px;
+    background-color: transparent;
+    color: #000;
+    transition: .10s linear;
+}
+
 .overlay {
     background-color: rgba(232, 232, 232, .25);
     color: black;
