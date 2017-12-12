@@ -123,7 +123,7 @@ p {
     height: 100%;
     width: 100%;
     font-family: 'Love Ya Like A Sister', cursive;
-    font-size: 36px;
+    font-size: 18px;
     text-align: center;
     overflow: show;
 }
@@ -172,7 +172,7 @@ p {
     }
     
     p {
-    font-size: 18px;
+    font-size: 36px;
     }
     
     .overlay p {
