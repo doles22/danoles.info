@@ -376,7 +376,7 @@ p {
 .dogs_img .overlay {
     width: 40%;
     height: 60%;
-    border-radius: 0px 0px 15px 0px;
+    border-radius: 15px 0px 15px 0px;
 }
 
 .container .dogs_img:hover .overlay{
