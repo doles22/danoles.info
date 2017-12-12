@@ -85,6 +85,13 @@ body {
     z-index: 0;
 }
 
+footer {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 5rem;
+}
+
 #b_banner {
     margin: auto;
     width: 90%;
