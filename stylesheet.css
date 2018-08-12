@@ -181,6 +181,8 @@ p {
     
     nav li a {
     font-size: 54px;
+    width:100%;
+    float:none;
     }
     
     body {
