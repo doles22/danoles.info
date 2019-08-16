@@ -1,2 +1,2 @@
 # Two Plus More
-Ever wondered what an average happy family looks like, well Two Plus More is can show you what that looks like.
+Enjoy our life with us and learn from our experiences too. Join the Two of us on our journey and more! 
