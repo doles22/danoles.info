@@ -257,7 +257,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://doles22.github.io/Two-Plus-More/media/Dan_camping.JPG");
+    background-image: url("media/Dan_camping.JPG");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -308,7 +308,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url(https://doles22.github.io/Two-Plus-More/media/Baby.jpg");
+    background-image: url(media/Baby.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -345,7 +345,7 @@ p {
 
 
 
-/*beginning of Dogs specific content */
+/*beginning of Dogs specific content
 
 #dogs_h h2 {
     text-align: right;
@@ -358,7 +358,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    /*background-image: url("https://doles22.github.io/Two-Plus-More/media/dogs.JPG");*/
+    background-image: url("media/dogs.JPG");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -389,7 +389,7 @@ p {
 }
 
 
-
+commenting out dog content*/
 
 
 
