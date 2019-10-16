@@ -310,7 +310,7 @@ p {
     display: block;
     background-image: url("media/William.jpg");
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: 50% 35%;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .08);
@@ -360,7 +360,7 @@ p {
     display: block;
     background-image: url("media/declan.jpg");
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: 50% 10%;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .08);
