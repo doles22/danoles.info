@@ -295,20 +295,20 @@ p {
 
 
 
-/*beginning of Baby specific content */
+/*beginning of William specific content */
 
-#baby_h h2 {
+#william_h h2 {
     text-align: left;
 }
 
-.container .baby_img {
+.container .william_img {
     margin: 0px 0px 5px 0px;
     width: 100%;
     max-width: 1080px;
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("media/Baby.jpg");
+    background-image: url("media/William.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -318,7 +318,7 @@ p {
 }
 
 @media only screen and (min-width: 1080px) {
-    .container .baby_img {
+    .container .william_img {
     margin: auto;
     width: 100%;
     max-width: 1080px;
@@ -327,14 +327,14 @@ p {
     }
 }
 
-.baby_img .overlay {
+.william_img .overlay {
     top: 75%;
     width: 50%;
     height: 25%;
     border-radius: 0px 15px;
 }
 
-.container .baby_img:hover .overlay{
+.container .william_img:hover .overlay{
     background-color: rgba(232, 232, 232, .60);
     color: black;
 }
