@@ -75,7 +75,7 @@ h1 {
 body {
     width: 100%;
     height: 100%;
-    /*background-image: url("https://github.com/doles22/Two-Plus-More/media/background.jpg");*/
+    /*background-image: url("https://doles22.github.io/Two-Plus-More/media/background.jpg");*/
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -205,7 +205,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://github.com/doles22/Two-Plus-More/media/Tayor_krikpark.jpg");
+    background-image: url("https://doles22.github.io/Two-Plus-More/media/Tayor_krikpark.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -257,7 +257,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://github.com/doles22/Two-Plus-More/media/Dan_camping.JPG");
+    background-image: url("https://doles22.github.io/Two-Plus-More/media/Dan_camping.JPG");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -308,7 +308,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://github.com/doles22/Two-Plus-More/media/Baby.jpg");
+    background-image: url(https://doles22.github.io/Two-Plus-More/media/Baby.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -358,7 +358,7 @@ p {
     height: 20rem;
     max-height: 360px;
     display: block;
-    background-image: url("https://github.com/doles22/Two-Plus-More/media/dogs.JPG");
+    /*background-image: url("https://doles22.github.io/Two-Plus-More/media/dogs.JPG");*/
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
