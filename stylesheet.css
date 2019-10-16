@@ -310,7 +310,7 @@ p {
     display: block;
     background-image: url("media/William.jpg");
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: top;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .08);
@@ -328,7 +328,7 @@ p {
 }
 
 .william_img .overlay {
-    top: 50%;
+    bottom:0;
     width: 50%;
     height: 50%;
     border-radius: 0px 15px;
@@ -360,7 +360,7 @@ p {
     display: block;
     background-image: url("media/declan.jpg");
     background-repeat: no-repeat;
-    background-position: left top;
+    background-position: top;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .08);
@@ -378,8 +378,10 @@ p {
 }
 
 .declan_img .overlay {
-    width: 40%;
-    height: 60%;
+    right: 0;
+    bottom: 0;
+    width: 30%;
+    height: 40%;
     border-radius: 15px 0px 15px 0px;
 }
 
