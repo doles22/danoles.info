@@ -310,7 +310,7 @@ p {
     display: block;
     background-image: url("media/William.jpg");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center top;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .08);
@@ -330,7 +330,7 @@ p {
 .william_img .overlay {
     top: 50%;
     width: 50%;
-    height: 25%;
+    height: 50%;
     border-radius: 0px 15px;
 }
 
@@ -360,7 +360,7 @@ p {
     display: block;
     background-image: url("media/declan.jpg");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left top;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .08);
