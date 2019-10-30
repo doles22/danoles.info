@@ -85,7 +85,7 @@ body {
     z-index: 0;
 }
 
-footer {
+*footer {
     display: block;
     width: 100%;
     height: 100%;
