@@ -85,11 +85,12 @@ body {
     z-index: 0;
 }
 
-*footer {
+footer {
     display: block;
     width: 100%;
     height: 100%;
     margin-bottom: 5rem;
+    background-color: rgba(232, 232, 232, .60);
 }
 
 #b_banner {
