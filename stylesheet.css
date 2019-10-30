@@ -446,7 +446,7 @@ p {
 /*Updates*/
 
 /*fall2019 styling*/
-#fall2019 p {
+.container #fall2019 p {
     padding: 2em 1em;
     height: 100%;
     width: 100%;
