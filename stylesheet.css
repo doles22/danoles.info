@@ -455,7 +455,7 @@ p {
     overflow: show;
 }
 
-.container .pa-carousel-widget {
+.container .pa-carousel-widget iframe {
     margin: 0px 0px 5px 0px;
     width: 100%;
     max-width: 1080px;
