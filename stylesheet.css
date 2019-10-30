@@ -436,3 +436,41 @@ p {
     color: #FFF;
     transition: .10s linear;
 }
+
+
+
+
+
+
+/*Updates*/
+
+/*fall2019 styling*/
+#fall2019 p {
+    padding: 2em 1em;
+    height: 100%;
+    width: 100%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 12px;
+    text-align: center;
+    overflow: show;
+}
+
+.container .pa-carousel-widget {
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 360px;
+    display: block;
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .taylor_img {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 45rem;
+    max-height: 480px;
+    }
+}
