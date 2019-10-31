@@ -1,4 +1,4 @@
-(function () {
+(function mobileMenu() {
     
     // Create mobile element
     var mobile = document.createElement('div');
