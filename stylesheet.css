@@ -39,6 +39,9 @@ h1 {
     color: #788487;
     font-size: 48px;
     margin: auto;  
+    background-color: rgba(0, 0, 0, .07);
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
 }
 
 #h_bar {
