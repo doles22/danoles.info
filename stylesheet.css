@@ -61,8 +61,8 @@ h1 {
     background-color: rgba(78, 183, 195, .25);
 }
 
-#h_barnoshow {
-    display: none;
+#h_barshow {
+    display: block;
 }
 
 #h_bar:hover {
