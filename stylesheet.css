@@ -61,6 +61,10 @@ h1 {
     background-color: rgba(78, 183, 195, .25);
 }
 
+#h_barnoshow {
+    display: none;
+}
+
 #h_bar:hover {
     background-color: rgba(78, 183, 195, .25);
 }
@@ -180,7 +184,11 @@ p {
     #h_bar {
     display: block;
     background-color: transparent;
-    }  
+    } 
+    
+    #h_barnoshow {
+    display: none;
+    }
     
     .container {
     padding: 3em 4em;
