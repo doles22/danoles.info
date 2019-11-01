@@ -184,10 +184,6 @@ p {
     #h_bar {
     display: block;
     background-color: transparent;
-    } 
-    
-    #h_barnoshow {
-    display: none;
     }
     
     .container {
