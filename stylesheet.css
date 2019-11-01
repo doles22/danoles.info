@@ -32,17 +32,7 @@ h1 {
 /* building heading nav bar */
 
 .fas fa-caret-down {
-    display: block;
-    text-align: center;
-    width: 10%;
-    height: 100%;
-    color: #788487;
-    font-size: 48px;
-    margin: auto;  
-}
-
-.fas fa-caret-down:hover {
-    cursor: pointer;
+    display: none;
 }
 
 #h_bar {
@@ -168,6 +158,16 @@ p {
     #h_banner {
     padding-top: 5%;
     height: 20rem;   
+    }
+    
+    .fas fa-caret-down {
+    display: block;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+    color: #788487;
+    font-size: 48px;
+    margin: auto;  
     }
     
     #h_bar {
