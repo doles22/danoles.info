@@ -32,7 +32,13 @@ h1 {
 /* building heading nav bar */
 
 #menuicon {
-    display: none;
+    display: block;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+    color: #788487;
+    font-size: 48px;
+    margin: auto;  
 }
 
 #h_bar {
@@ -161,13 +167,7 @@ p {
     }
     
     #menuicon {
-    display: block;
-    text-align: center;
-    width: 10%;
-    height: 100%;
-    color: #788487;
-    font-size: 48px;
-    margin: auto;  
+    display: none; 
     }
     
     #h_bar {
