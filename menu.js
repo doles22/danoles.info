@@ -1,5 +1,5 @@
 function mobileMenu() {
-  var x = document.getElementById("h_bar" || "h_barshow");
+  var x = document.getElementsByTagName(nav);
   if (x.id === "h_barshow") {
   x.id = "h_bar";
   }
