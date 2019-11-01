@@ -1,9 +1,9 @@
 function mobileMenu() {
   var x = document.getElementById("h_bar");
-  if (x.style.display == "") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
+  if ( x.classname === "h_bar") {
+    x = "h_barnoshow"
   }
-}
+  else {
+    x = "h_bar"
+    
 
