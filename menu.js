@@ -4,12 +4,12 @@ function mobileMenu() {
   x.id = "h_barshow";
   }
   else {
-    var x = document.getElementById("h_barshow");
-    if (x.id === "h_barshow") {
-    x.id = "h_bar";
+    var y = document.getElementById("h_barshow");
+    if (y.id === "h_barshow") {
+    y.id = "h_bar";
     }
     else {
-    x.id = "h_bar";
+    y.id = "h_bar";
     }
   }
-
+}
