@@ -1,6 +1,6 @@
 function mobileMenu() {
   var x = document.getElementById("h_bar");
-  if (x.id === "h_bar" || x.id === null) {
+  if (x.id === "h_bar" || x.id == null) {
   x.id = "h_barshow";
   }
   else {
