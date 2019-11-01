@@ -55,6 +55,7 @@ h1 {
 #h_barshow {
     display: block;
     width: 100%;
+    min-width: 75px;
     height: 100%;
     margin-bottom: 5rem;
     list-style-type: none;
