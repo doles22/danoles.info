@@ -65,18 +65,18 @@ h1 {
     background-color: rgba(78, 183, 195, .25);
 }
 
-#h_bar:hover {
+#h_barshow:hover {
     background-color: rgba(78, 183, 195, .25);
 }
 
-#h_bar li {
+#h_barshow li {
     display: inline-block;
     margin: .5rem 2rem;
     padding: .5rem;
     border-radius: 15px;
 }
 
-#h_bar li a {
+#h_barshow li a {
     padding: .5rem;
     border-radius: 15px;
     background-color: transparent;
@@ -85,7 +85,7 @@ h1 {
 }
 
 
-#h_bar li a:hover {
+#h_barshow li a:hover {
     background-color: rgba(78, 183, 195, 1);
     color: #FFF;
     cursor: pointer;
@@ -192,6 +192,31 @@ p {
     font-size: 36px;
     transition: .10s linear;
     background-color: rgba(78, 183, 195, .25);
+    }
+
+    #h_bar:hover {
+    background-color: rgba(78, 183, 195, .25);
+    }
+    
+    #h_bar li {
+    display: inline-block;
+    margin: .5rem 2rem;
+    padding: .5rem;
+    border-radius: 15px;
+    }
+
+    #h_bar li a {
+    padding: .5rem;
+    border-radius: 15px;
+    background-color: transparent;
+    color: #000;
+    transition: .10s linear;
+    }
+
+    #h_bar li a:hover {
+    background-color: rgba(78, 183, 195, 1);
+    color: #FFF;
+    cursor: pointer;
     }
     
     .container {
