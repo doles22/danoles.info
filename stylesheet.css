@@ -31,6 +31,18 @@ h1 {
 
 /* building heading nav bar */
 
+.fas fa-caret-down {
+    display: block;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+    color: #788487;
+    font-size: 48px;
+    cursor: pointer;
+    margin: auto;
+    
+}
+
 #h_bar {
     display: block;
     width: 100%;
