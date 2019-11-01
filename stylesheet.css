@@ -38,9 +38,11 @@ h1 {
     height: 100%;
     color: #788487;
     font-size: 48px;
+    margin: auto;  
+}
+
+.fas fa-caret-down:hover {
     cursor: pointer;
-    margin: auto;
-    
 }
 
 #h_bar {
