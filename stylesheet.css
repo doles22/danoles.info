@@ -490,12 +490,10 @@ p {
 
 
 /*Stay in touch content */
-#stayintouch h2 a {
-    padding: .5rem;
-    border-radius: 15px;
-    background-color: rgba(78, 183, 195, 1);
-    color: #FFF;
-    transition: .10s linear;
+#stayintouch a img {
+    height: 40px;
+    width: 40px;
+    text-align: center;
 }
 
 
