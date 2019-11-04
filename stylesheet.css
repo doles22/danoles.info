@@ -490,14 +490,12 @@ p {
 
 
 /*Stay in touch content */
-#stayintouch a img {
+#stayintouch a {
+    display: block;
+    text-align: center;
     height: 40px;
     width: 40px;
-    text-align: center;
 }
-
-
-
 
 
 
