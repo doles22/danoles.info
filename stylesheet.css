@@ -492,7 +492,7 @@ p {
 /*Stay in touch content */
 #stayintouch a {
     display: block;
-    text-align: center;
+    margin : auto;
     height: 40px;
     width: 40px;
 }
