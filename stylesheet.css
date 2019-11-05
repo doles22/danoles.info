@@ -72,6 +72,7 @@ h1 {
 
 #h_barshow li {
     display: inline-block;
+    list-style-type: none;
     margin: .5rem 2rem;
     padding: .5rem;
     border-radius: 15px;
