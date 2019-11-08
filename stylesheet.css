@@ -43,14 +43,11 @@ h1 {
     background-color: rgba(0, 0, 0, .07);
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
-}
-
-#menuiconcontainter:hover {
-    cursor: pointer;
-}
-
-#menuicon {
     transform: rotate(0deg);
+}
+
+#menuicon:hover {
+    cursor: pointer;
 }
 
 #h_bar {
