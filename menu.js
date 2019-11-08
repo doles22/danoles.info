@@ -8,6 +8,6 @@ function mobileMenu() {
   }
   else {
     x.id = "h_barshow";
-    y.style = "transform: rotate(180deg);border-top-right-radius: 0px; border-top-left-radius: 0px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px";
+    y.style = "transform: rotate(180deg); border-top-right-radius: 0px; border-top-left-radius: 0px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px";
   }
 }
