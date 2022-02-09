@@ -1,6 +1,5 @@
-# Two Plus More
-Enjoy our life and learn from our experiences. Join the Two of us on our journeys and more! 
-
+# Dan Oles
+Building this site to learn more about how to code and to help with my resume!
 
 
 Index.html
@@ -13,6 +12,6 @@ Media folder:
 holds all static images for the site. 
 eventually I would like this folder to house an embed document that are referenced and called into different pages. Plus all integrations with feeds for media content. 
 
-<a href="https://twoplusmore.com/index">twoplusmore.com</a>
+<a href="https://danoles.info/">danoles.info</a>
 
 
