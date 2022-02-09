@@ -13,6 +13,6 @@ Media folder:
 holds all static images for the site. 
 eventually I would like this folder to house an embed document that are referenced and called into different pages. Plus all integrations with feeds for media content. 
 
-<a href="twoplusmore.com">twoplusmore.com</a>
+<a href="https://twoplusmore.com/index">twoplusmore.com</a>
 
 
