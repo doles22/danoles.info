@@ -1,5 +1,5 @@
 # Dan Oles
-Building this site to learn more about how to code and to help with my resume!
+Building this site to learn more about how to code!
 
 
 Index.html
