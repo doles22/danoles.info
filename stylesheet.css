@@ -256,54 +256,6 @@ p {
 
 
 
-/*beginning of Taylor specific content */
-#taylor_h h2 {
-    text-align: left;
-}
-
-.container .taylor_img {
-    margin: 0px 0px 5px 0px;
-    width: 100%;
-    max-width: 1080px;
-    height: 20rem;
-    max-height: 360px;
-    display: block;
-    background-image: url("media/Tayor_krikpark.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-blend-mode: color;
-    background-color: rgba(232, 232, 232, .27);
-    border-radius: 15px;
-}
-
-.taylor_img .overlay {
-    top: 25%;
-    width: 60%;
-    height: 75%;
-    border-radius: 0px 15px;
-}
-
-.container .taylor_img:hover .overlay{
-    background-color: rgba(232, 232, 232, .60);
-    color: black;
-}
-
-@media only screen and (min-width: 1080px) {
-    .container .taylor_img {
-    margin: auto;
-    width: 100%;
-    max-width: 1080px;
-    height: 45rem;
-    max-height: 480px;
-    }
-}
-
-
-
-
-
-
 
 
 
@@ -354,110 +306,6 @@ p {
 
 
 
-
-
-
-
-/*beginning of William specific content */
-
-#william_h h2 {
-    text-align: left;
-}
-
-.container .william_img {
-    margin: 0px 0px 5px 0px;
-    width: 100%;
-    max-width: 1080px;
-    height: 20rem;
-    max-height: 360px;
-    display: block;
-    background-image: url("media/William.jpg");
-    background-repeat: no-repeat;
-    background-position: 50% 35%;
-    background-size: cover;
-    background-blend-mode: color;
-    background-color: rgba(0, 0, 0, .08);
-    border-radius: 15px;
-}
-
-@media only screen and (min-width: 1080px) {
-    .container .william_img {
-    margin: auto;
-    width: 100%;
-    max-width: 1080px;
-    height: 45rem;
-    max-height: 480px;
-    }
-}
-
-.william_img .overlay {
-    bottom:0;
-    width: 50%;
-    height: 50%;
-    border-radius: 0px 15px;
-}
-
-.container .william_img:hover .overlay{
-    background-color: rgba(232, 232, 232, .60);
-    color: black;
-}
-
-
-
-
-
-
-
-/*beginning of Declan specific content*/
-
-#declan_h h2 {
-    text-align: right;
-}
-
-.container .declan_img {
-    margin: 0px 0px 5px 0px;
-    width: 100%;
-    max-width: 1080px;
-    height: 20rem;
-    max-height: 360px;
-    display: block;
-    background-image: url("media/declan.jpg");
-    background-repeat: no-repeat;
-    background-position: 50% 10%;
-    background-size: cover;
-    background-blend-mode: color;
-    background-color: rgba(0, 0, 0, .08);
-    border-radius: 15px;
-}
-
-@media only screen and (min-width: 1080px) {
-    .container .declan_img {
-    margin: auto;
-    width: 100%;
-    max-width: 1080px;
-    height: 45rem;
-    max-height: 480px;
-    }
-}
-
-.declan_img .overlay {
-    right: 0;
-    bottom: 0;
-    width: 30%;
-    height: 40%;
-    border-radius: 15px 0px 15px 0px;
-}
-
-.container .declan_img:hover .overlay{
-    background-color: rgba(232, 232, 232, .60);
-    color: black;
-}
-
-
-
-
-
-
 /* creating video blocks */
 
 .container .videoblock {
@@ -503,8 +351,8 @@ p {
 
 /*Updates*/
 
-/*fall2019 styling*/
-.container #fall2019 p {
+/*Summary*/
+.container #summary p {
     padding: 2em 1em;
     height: 100%;
     width: 100%;
@@ -514,22 +362,5 @@ p {
     overflow: show;
 }
 
-.container .pa-carousel-widget iframe {
-    margin: 0px 0px 5px 0px;
-    width: 100%;
-    max-width: 1080px;
-    height: 20rem;
-    max-height: 360px;
-    display: block;
-    border-radius: 15px;
-}
 
-@media only screen and (min-width: 1080px) {
-    .container .taylor_img {
-    margin: auto;
-    width: 100%;
-    max-width: 1080px;
-    height: 45rem;
-    max-height: 480px;
-    }
-}
+
