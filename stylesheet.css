@@ -253,12 +253,6 @@ p {
 
 
 
-
-
-
-
-
-
 /*beginning of Dan specific content */
 
 #dan_h h2 {
@@ -305,7 +299,6 @@ p {
 
 
 
-
 /* creating video blocks */
 
 .container .videoblock {
@@ -334,11 +327,6 @@ p {
 
 
 
-
-
-
-
-
 /*Stay in touch content */
 #stayintouch a {
     display: block;
@@ -348,8 +336,7 @@ p {
 }
 
 
-
-/*Updates*/
+/*Summary*/
 
 /*Summary*/
 .container #summary p {
