@@ -310,7 +310,7 @@ p {
 /*beginning of Dan specific content */
 
 #dan_h h2 {
-    text-align: center;
+    text-align: left;
 }
 
 .container .dan_img {
@@ -322,7 +322,7 @@ p {
     display: block;
     background-image: url("media/Dan_camping.jpg");
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .2);
