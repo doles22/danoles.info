@@ -350,7 +350,7 @@ p {
     overflow-wrap: break-word;
 }
 
-.container #Summary h2 {
+.container #product_name h2 {
     padding: 2em 1em;
     height: 100%;
     width: 100%;
