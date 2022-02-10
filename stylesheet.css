@@ -386,7 +386,7 @@ p {
     display: block;
     background-image: url("media/Gordon Now - Apps on Google Play.png");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left center;
     background-size: cover;
     background-blend-mode: color;
     background-color: rgba(0, 0, 0, .2);
