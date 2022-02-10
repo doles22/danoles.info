@@ -1,5 +1,5 @@
 # Dan Oles
-Building this site to learn more about how to code!
+I built this site completely custom because I wanted to learn more about CSS, HTML and JS on my own time. Plus it's always a great feeling when I accomplish something and it works well! 
 
 
 Index.html
