@@ -137,7 +137,7 @@ h2 {
     padding-right: 1rem;
     height: 100%;
     width: 100%;
-    font-family: 'Love Ya Like A Sister', cursive;
+    font-family: 'Julius Sans One', sans-serif;
     font-size: 42px;
     text-align: center;
     color: #FFF;
@@ -154,7 +154,7 @@ p {
 }
 
 .overlay {
-    background-color: rgba(232, 232, 232, .80);
+    background-color: rgba(232, 232, 232, .60);
     color: black;
     position: absolute;
     transition: .10s linear;    
@@ -165,7 +165,7 @@ p {
     padding: 2em 1em;
     font-family: 'Raleway', sans-serif;
     font-size: 10px;
-    text-align: left;
+    text-align: center;
     overflow-wrap: break-word;
     padding-top: 2rem;
     height: 75%;
@@ -238,7 +238,7 @@ p {
     }
     
     .overlay {
-    background-color: rgba(232, 232, 232, .80);
+    background-color: rgba(232, 232, 232, .60);
     }
     
     h1 {
