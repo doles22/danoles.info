@@ -153,16 +153,6 @@ p {
     overflow: show;
 }
 
-h3 {
-    padding: 2em 1em;
-    height: 100%;
-    width: 100%;
-    font-family: 'Love Ya Like A Sister', cursive;
-    font-size: 18px;
-    text-align: center;
-    overflow: show;
-}
-
 .overlay {
     background-color: rgba(232, 232, 232, .25);
     color: black;
@@ -182,6 +172,15 @@ h3 {
     width: 90%;
 }
 
+.overlay h3 {
+    padding: 2em 1em;
+    height: 100%;
+    width: 100%;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 18px;
+    text-align: center;
+    overflow: show;
+}
 
 
 /* Responsive options for body for screens over 1080px */
@@ -256,6 +255,10 @@ h3 {
     
     .overlay p {
     font-size: 25px;
+    }
+    
+    .overlay h3 {
+    font-size: 36px; 
     }
     
     nav li a {
