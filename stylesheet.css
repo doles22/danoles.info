@@ -328,7 +328,7 @@ p {
     text-align: left;
 }
 
-.container .dan_img {
+.container .ido {
     margin: 0px 0px 5px 0px;
     width: 100%;
     max-width: 1080px;
@@ -345,7 +345,7 @@ p {
 }
 
 @media only screen and (min-width: 1080px) {
-    .container .dan_img {
+    .container .ido {
     margin: auto;
     width: 100%;
     max-width: 1080px;
@@ -354,19 +354,17 @@ p {
     }
 }
 
-.dan_img .overlay {
+.ido .overlay {
     right: 0;
     width: 40%;
     height: 100%;
     border-radius: 0px 15px 15px 0px;
 }
 
-.container .dan_img:hover .overlay{
+.container .ido:hover .overlay{
     background-color: rgba(232, 232, 232, .80);
     color: black;
 }
-
-
 
 
 
@@ -406,8 +404,6 @@ p {
     width: 40px;
 }
 
-
-/*Summary*/
 
 /*Summary*/
 .container #Summary p {
