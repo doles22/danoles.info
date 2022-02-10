@@ -162,18 +162,17 @@ p {
 
 .overlay p {
 
-    padding: 2em 1em;
     font-family: 'Raleway', sans-serif;
     font-size: 10px;
     text-align: center;
     overflow-wrap: break-word;
-    padding-top: 2rem;
+    padding-top: 1rem;
     height: 75%;
-    width: 90%;
+    width: 100%;
 }
 
 .overlay h3 {
-    padding: 2em 1em;
+    padding: 3em 1em;
     height: 25%;
     width: 100%;
     font-family: 'Julius Sans One', sans-serif;
@@ -263,7 +262,7 @@ p {
     
     .overlay h3 {
     font-size: 36px; 
-    height: 35%;
+    height: 25%;
     }
     
     nav li a {
@@ -314,10 +313,11 @@ p {
     width: 40%;
     height: 100%;
     border-radius: 0px 15px 15px 0px;
+    padding: 0em;
 }
 
 .container .dan_img:hover .overlay{
-    background-color: rgba(232, 232, 232, .90);
+    background-color: rgba(232, 232, 232, .80);
     color: black;
 }
 
@@ -361,8 +361,12 @@ p {
     border-radius: 0px 15px 15px 0px;
 }
 
+.ido .overlay h3 {
+    height: 40%;
+    }
+
 .container .ido:hover .overlay{
-    background-color: rgba(232, 232, 232, .90);
+    background-color: rgba(232, 232, 232, .80);
     color: black;
 }
 
