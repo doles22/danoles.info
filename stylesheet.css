@@ -154,7 +154,7 @@ p {
 }
 
 .overlay {
-    background-color: rgba(232, 232, 232, .60);
+    background-color: rgba(232, 232, 232, .80);
     color: black;
     position: absolute;
     transition: .10s linear;    
