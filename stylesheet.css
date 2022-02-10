@@ -237,6 +237,10 @@ p {
     padding: 3em 4em;
     }
     
+    .overlay {
+    background-color: rgba(232, 232, 232, .80);
+    }
+    
     h1 {
     font-size: 150px; 
     }
