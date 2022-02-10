@@ -371,6 +371,56 @@ p {
 }
 
 
+/* creating blocks for product portfolio */
+
+#dan_h h2 {
+    text-align: left;
+}
+
+.container .gordonnow {
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 560px;
+    display: block;
+    background-image: url("media/Gordon Now - Apps on Google Play (1).png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .gordonnow {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 60rem;
+    max-height: 1080px;
+    }
+}
+
+.gordonnow .overlay {
+    right: 0;
+    width: 40%;
+    height: 100%;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.gordonnow .overlay h3 {
+    height: 40%;
+    padding: 1em 1em;
+    }
+
+.container .gordonnow:hover .overlay{
+    background-color: rgba(232, 232, 232, .80);
+    color: black;
+}
+
+
 
 /* creating video blocks */
 
