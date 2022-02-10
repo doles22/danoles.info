@@ -317,7 +317,7 @@ p {
 }
 
 .container .dan_img:hover .overlay{
-    background-color: rgba(232, 232, 232, .80);
+    background-color: rgba(232, 232, 232, .90);
     color: black;
 }
 
@@ -362,7 +362,7 @@ p {
 }
 
 .container .ido:hover .overlay{
-    background-color: rgba(232, 232, 232, .80);
+    background-color: rgba(232, 232, 232, .90);
     color: black;
 }
 
