@@ -174,7 +174,7 @@ h3 {
 
     padding: 2em 1em;
     font-family: 'Raleway', sans-serif;
-    font-size: 18px;
+    font-size: 10px;
     text-align: left;
     overflow-wrap: break-word;
     padding-top: 2rem;
@@ -246,12 +246,16 @@ h3 {
     font-size: 84px; 
     }
     
+    h3 {
+    font-size: 84px; 
+    }
+    
     p {
     font-size: 36px;
     }
     
     .overlay p {
-    font-size: 36px;
+    font-size: 25px;
     }
     
     nav li a {
