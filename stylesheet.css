@@ -264,7 +264,7 @@ p {
     width: 100%;
     max-width: 1080px;
     height: 20rem;
-    max-height: 360px;
+    max-height: 560px;
     display: block;
     background-image: url("media/Dan_camping.jpg");
     background-repeat: no-repeat;
@@ -280,8 +280,8 @@ p {
     margin: auto;
     width: 100%;
     max-width: 1080px;
-    height: 45rem;
-    max-height: 480px;
+    height: 60rem;
+    max-height: 1080px;
     }
 }
 
