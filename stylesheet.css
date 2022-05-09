@@ -154,7 +154,7 @@ p {
 }
 
 .overlay {
-    background-color: rgba(232, 232, 232, .80);
+    background-color: rgba(232, 232, 232);
     color: black;
     position: absolute;
     transition: .10s linear;    
@@ -236,7 +236,7 @@ p {
     }
     
     .overlay {
-    background-color: rgba(232, 232, 232, .60);
+    background-color: rgba(232, 232, 232);
     }
     
     h1 {
@@ -290,10 +290,9 @@ p {
     display: block;
     background-image: url("media/Dan_camping.jpg");
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background-position: Left center;
+    background-size: contain;
     background-blend-mode: color;
-    background-color: rgba(0, 0, 0, .2);
     border-radius: 15px;
 }
 
@@ -316,7 +315,7 @@ p {
 }
 
 .container .dan_img:hover .overlay{
-    background-color: rgba(232, 232, 232, .90);
+    background-color: rgba(232, 232, 232);
     color: black;
 }
 
@@ -336,10 +335,9 @@ p {
     display: block;
     background-image: url("media/Example Roadmap.png");
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background-position: center bottom;
+    background-size: contain;
     background-blend-mode: color;
-    background-color: rgba(0, 0, 0, .2);
     border-radius: 15px;
 }
 
@@ -355,18 +353,18 @@ p {
 
 .ido .overlay {
     right: 0;
-    width: 40%;
-    height: 100%;
-    border-radius: 0px 15px 15px 0px;
+    width: 100%;
+    height: 50%;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .ido .overlay h3 {
-    height: 40%;
+    height: 20%;
     padding: 1em 1em;
     }
 
 .container .ido:hover .overlay{
-    background-color: rgba(232, 232, 232, .90);
+    background-color: rgba(232, 232, 232);
     color: black;
 }
 
@@ -384,12 +382,11 @@ p {
     height: 20rem;
     max-height: 560px;
     display: block;
-    background-image: url("media/Gordon Now - Apps on Google Play.png");
+    background-image: url("media/Gordon Now - Apps on Google Play.gif");
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: cover;
+    background-size: contain;
     background-blend-mode: color;
-    background-color: rgba(0, 0, 0, .2);
     border-radius: 15px;
 }
 
@@ -405,21 +402,68 @@ p {
 
 .gordonnow .overlay {
     right: 0;
-    width: 40%;
+    width: 50%;
     height: 100%;
     border-radius: 0px 15px 15px 0px;
 }
 
 .gordonnow .overlay h3 {
-    height: 40%;
+    height: 20%;
     padding: 1em 1em;
     }
 
 .container .gordonnow:hover .overlay{
-    background-color: rgba(232, 232, 232, .90);
+    background-color: rgba(232, 232, 232);
     color: black;
 }
 
+/* creating blocks for product portfolio */
+
+#dan_h h2 {
+    text-align: left;
+}
+
+.container .mgt_reporting {
+    margin: 0px 0px 5px 0px;
+    width: 100%;
+    max-width: 1080px;
+    height: 20rem;
+    max-height: 560px;
+    display: block;
+    background-image: url("media/management reporting.gif");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+    background-blend-mode: color;
+    border-radius: 15px;
+}
+
+@media only screen and (min-width: 1080px) {
+    .container .mgt_reporting {
+    margin: auto;
+    width: 100%;
+    max-width: 1080px;
+    height: 60rem;
+    max-height: 1080px;
+    }
+}
+
+.mgt_reporting .overlay {
+    right: 0;
+    width: 100%;
+    height: 50%;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.mgt_reporting .overlay h3 {
+    height: 20%;
+    padding: 1em 1em;
+    }
+
+.container .mgt_reporting:hover .overlay{
+    background-color: rgba(232, 232, 232);
+    color: black;
+}
 
 
 /* creating video blocks */
@@ -467,7 +511,6 @@ p {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     text-align: left;
-    text
     overflow-wrap: break-word;
 }
 
